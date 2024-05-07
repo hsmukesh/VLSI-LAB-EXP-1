@@ -207,5 +207,7 @@ OUTPUT:
 
 
 RESULT:
+
+
 Hence, the simulation and synthesis of Logic Gates, Adders and Subtractors is verified using Xilinx ISE.
 
