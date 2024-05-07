@@ -1,5 +1,6 @@
-module ha(a,b,sum,carry);
+module halfadder(a,b,s,c);
 input a,b;
-output sum,carry;
-
+output s,c;
+xor (s,a,b);
+and (c,a,b);
 endmodule
